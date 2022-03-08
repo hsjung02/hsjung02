@@ -15,7 +15,7 @@
   
   ![](https://img.shields.io/badge/-Python-blue) ![](https://img.shields.io/badge/-C/C++-blue) ![](https://img.shields.io/badge/-Javascript-blue) ![](https://img.shields.io/badge/-MySQL-blue) ![](https://img.shields.io/badge/-HTML/CSS-blue)
   
-  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hsjung02)](https://github.com/anuraghazra/github-readme-stats)
+![hsjung02's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=seo)
   
 </div>
 
