@@ -2,14 +2,14 @@
   
   ![header](https://capsule-render.vercel.app/api?type=slice&customColorList=0&height=300&section=header&text=Hyun-Seo%20Jung&fontSize=90)
   
-  안녕하세요. 기계공학과 전자공학을 공부하고, 코딩에 관심이 많은 대학생입니다.
+  안녕하세요. 기계공학과 전자공학을 공부하는 학생입니다.
   ----
   
   ### Knowledges & Skills
   
-  ![](https://img.shields.io/badge/-Statics-yellow) ![](https://img.shields.io/badge/-Dynamics-yellow) ![](https://img.shields.io/badge/-Thermodynamics-yellow)
+  ![](https://img.shields.io/badge/-Statics-yellow) ![](https://img.shields.io/badge/-Dynamics-yellow) ![](https://img.shields.io/badge/-Thermodynamics-yellow) ![](https://img.shields.io/badge/-Fluid%20Mechanics-yellow)
   
-  ![](https://img.shields.io/badge/-Circuit%20Theory-orange) ![](https://img.shields.io/badge/-Signals&Systems-orange)
+  ![](https://img.shields.io/badge/-Circuit%20Theory-orange) ![](https://img.shields.io/badge/-Signals&Systems-orange) ![](https://img.shields.io/badge/-MicroCircuits-orange)
   
   ![](https://img.shields.io/badge/-CAD-brightgreen) ![](https://img.shields.io/badge/-3D%20Printing-brightgreen) ![](https://img.shields.io/badge/-Arduino&RBP-brightgreen)
   
