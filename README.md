@@ -2,8 +2,16 @@
   
   ![header](https://capsule-render.vercel.app/api?type=slice&customColorList=0&height=300&section=header&text=Hyun-Seo%20Jung&fontSize=90)
   
-  안녕하세요. 기계공학과 전자공학을 공부하는 학생입니다.
+  Hi, I am hsjung02.
   ----
+  
+  UG @[POSTECH](https://www.postech.ac.kr/), Dept. of Mechanical Engineering & Dept. of Electrical Engineering
+  
+  Lab Internship @[MARCH Lab](https://march.postech.ac.kr/)
+  
+  Check my [CV](https://hsjung02.github.io/cv)
+ 
+  Come into my [memories](https://hsjung02.github.io)
   
   ### Knowledges & Skills
   
@@ -15,7 +23,6 @@
   
   ![](https://img.shields.io/badge/-Python-blue) ![](https://img.shields.io/badge/-C/C++-blue) ![](https://img.shields.io/badge/-Javascript-blue) ![](https://img.shields.io/badge/-MySQL-blue) ![](https://img.shields.io/badge/-HTML/CSS-blue)
   
-![hsjung02's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=seo)
   
 </div>
 
