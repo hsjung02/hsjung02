@@ -9,7 +9,7 @@
   
   Lab Internship @[MARCH Lab](https://march.postech.ac.kr/)
   
-  Check my [CV](https://hsjung02.github.io/cv.html)
+  Check my [CV](https://hsjung02.github.io/assets/CV.pdf)
  
   Come into my [memories](https://hsjung02.github.io)
   
