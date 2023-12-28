@@ -6,7 +6,6 @@
   ----
   </div>
 
-  - I am an undergraduate student at [POSTECH](https://www.postech.ac.kr/), Double Major in Mechanical Engineering and Electrical Engineering
+  - I am a postgraduate student at [POSTECH](https://www.postech.ac.kr/), dept. of Mechanical Engineering.
   - I am looking forward to communicate with those who are interested in Robotics or Automation field
-  - I am irregularly posting materials I have on my [blog](https://hsjung02.github.io) so that you can share
-  - You can check my CV [here](https://hsjung02.github.io/assets/CV.pdf)
+  - You can check my CV [here](https://hsjung02.github.io/assets/CV)
