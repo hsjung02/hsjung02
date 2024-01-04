@@ -8,4 +8,4 @@
 
   - I am a postgraduate student at [POSTECH](https://www.postech.ac.kr/), dept. of Mechanical Engineering.
   - I am looking forward to communicate with those who are interested in Robotics or Automation field
-  - You can check my CV [here](https://hsjung02.github.io/assets/CV_HyunSeo_Jung.pdf)
+  - You can check my CV [here](https://hsjung02.github.io/cv)
